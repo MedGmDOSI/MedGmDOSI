@@ -1,5 +1,5 @@
 <h1 align="center">Mohamed El Gorrim</h1>
-<h3 align="center">Software &amp; Engineering Student at Université de Bretagne Occidental </h3>
+<h3 align="center">Software Engineering Student at Université de Bretagne Occidental </h3>
 
 Hi there, this is my second account which i use it only for school purpose or something related, if you want to see more you can visit my main account 
   <a href="https://github.com/MedGm">MedGm</a> ·
