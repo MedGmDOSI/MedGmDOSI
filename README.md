@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Mohamed El Gorrim</h1>
+<h3 align="center">Software &amp; Engineering Student at Université de Bretagne Occidental </h3>
 
-<!--
-**MedGmDOSI/MedGmDOSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, this is my second account which i use it only for school purpose or something related, if you want to see more you can visit my main account 
+  <a href="https://github.com/MedGm">MedGm</a> ·
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-el-gorrim/">LinkedIn</a> ·
+  <a href="https://medgmportfolio.vercel.app/">Portfolio</a> ·
+  <a href="mailto:mohamedelgorrim.contact@gmail.com">Email</a>
+</p>
